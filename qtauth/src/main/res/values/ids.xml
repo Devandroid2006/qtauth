@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BASE_URL" type="string">null</item>
+
+    <item name="hint_username" type="string">Username</item>
+    <item name="error_username" type="string">Enter valid username</item>
+    <item name="hint_email" type="string">Email</item>
+    <item name="error_email" type="string">Enter valid email-id</item>
+    <item name="hint_password" type="string">Password</item>
+    <item name="error_password" type="string">Enter valid password</item>
+    <item name="text_login" type="string">Login</item>
+    <item name="text_continue" type="string">Continue</item>
+    <item name="forgot_password_text" type="string">Forgot Password?</item>
+    <item name="need_an_account" type="string">Need an account? Sign up</item>
+    <item name="already_have_an_account" type="string">Already have an account? Sign in</item>
+    <item name="terms_and_condition_text" type="string">Terms and Conditions</item>
+
+    <item name="size_2dp" type="dimen">2dp</item>
+    <item name="size_4dp" type="dimen">4dp</item>
+    <item name="size_6dp" type="dimen">6dp</item>
+    <item name="size_8dp" type="dimen">8dp</item>
+    <item name="size_16dp" type="dimen">16dp</item>
+
+    <item name="size_12dp" type="dimen">12dp</item>
+    <item name="size_24dp" type="dimen">24dp</item>
+    <item name="size_40dp" type="dimen">40dp</item>
+
+    <item name="size_12sp" type="dimen">12sp</item>
+    <item name="size_16sp" type="dimen">16sp</item>
+    <item name="size_20sp" type="dimen">20sp</item>
+
+    <item name="ic_logo" type="drawable">@drawable/quintype_logo</item>
+    <item name="ic_left_arrow" type="drawable" />
+    <item name="ic_share" type="drawable" />
+
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="black" type="color">#000000</item>
+    <item name="colorPrimary" type="color">#FFFFFF</item>
+    <item name="colorAccent" type="color">#404040</item>
+    <item name="colorPrimaryDark" type="color">#2575DF</item>
+    <item name="trending_text_color" type="color" />
+    <item name="red" type="color">#FF0000</item>
+    <item name="grey" type="color">#EAEAEA</item>
+
+    <item name="ToggleSwitchStyle" type="style" />
+
+    <item name="slide_down_in_anim" type="anim" />
+    <item name="slide_down_out" type="anim" />
+    <item name="slide_left_in_anim" type="anim" />
+    <item name="slide_left_out_anim" type="anim" />
+    <item name="slide_right_in_anim" type="anim" />
+    <item name="slide_right_out_anim" type="anim" />
+    <item name="slide_up_in_anim" type="anim" />
+    <item name="slide_up_out_anim" type="anim" />
+
+    <item name="SLIDE_LEFT" type="string">slide_left</item>
+    <item name="SLIDE_RIGHT" type="string">slide_right</item>
+    <item name="SLIDE_UP" type="string">slide_up</item>
+    <item name="SLIDE_DOWN" type="string">slide_down</item>
+
+</resources>

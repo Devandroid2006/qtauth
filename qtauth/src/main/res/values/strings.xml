@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quintype Auth</string>
+
+    <string name="facebook_app_id">452218782077787</string>
+    <string name="fb_login_protocol_scheme">fb452218782077787</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="more_options">More Options</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="login_with_linkedin">Login with Linkedin</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="by_signing_in_you_indicate_to_accept_our_terms_of_service_amp_privacy_policy"><![CDATA[By signing in you indicate to accept our Terms of service & privacy policy.]]></string>
+</resources>

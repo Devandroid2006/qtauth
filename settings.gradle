@@ -1,0 +1,2 @@
+include ':app',':qtauth'
+rootProject.name='QTAuthSample'
