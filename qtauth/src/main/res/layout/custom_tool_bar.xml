@@ -34,8 +34,7 @@
         android:textStyle="bold"
         android:fontFamily="@font/default_font"
         android:gravity="center_vertical"
-        android:textColor="@color/colorAccent"
-        android:textSize="?attr/size_16sp" />
+        android:textColor="@color/colorAccent" />
 
     <ImageView
         android:id="@+id/custom_tool_bar_iv_share_image"
